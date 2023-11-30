@@ -1706,5 +1706,26 @@
     "width": 34,
     "x": 640,
     "y": 296
+  },
+  "metro_red":{
+    "height": 48,
+    "width": 48,
+    "pixelRatio": 2,
+    "x": 570,
+    "y": 0
+  },
+  "metro_green": {
+    "height": 48,
+    "width": 48,
+    "pixelRatio": 2,
+    "x": 520,
+    "y": 0
+  },
+  "metro_blue": {
+    "height": 48,
+    "width": 48,
+    "pixelRatio": 2,
+    "x": 620,
+    "y": 0
   }
 }
