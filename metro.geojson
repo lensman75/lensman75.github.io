@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "features": [
-    //Красная ветка:
+    
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.35522442200779, 50.46497025505604]}, "properties": {"name": "Академмістечко", "line": "red"}}, 
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.365627991799755, 50.45628408630957]}, "properties": {"name": "Житомирська", "line": "red"}}, 
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.39086035877441, 50.45780434492565]}, "properties": {"name": "Святошин", "line": "red"}}, 
@@ -21,7 +21,6 @@
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.63076299998127, 50.460005562441815]}, "properties": {"name": "Чернігівська", "line": "red"}}, 
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.64615425868185, 50.464749417309605]}, "properties": {"name": "Лісова", "line": "red"}}, 
 
-    //Зелёная ветка
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.43547411880911, 50.47776339795095]}, "properties": {"name": "Сирець", "line": "green"}},
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.452218652305834, 50.47431849422152]}, "properties": {"name": "Дорогожичі", "line": "green"}},
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.485707722682786, 50.461501248149624]}, "properties": {"name": "Лук'янівська", "line": "green"}},
@@ -39,7 +38,6 @@
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.685152268083424, 50.40378729552957]}, "properties": {"name": "Бориспільська", "line": "green"}},
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.697196583086555, 50.40990225562837]}, "properties": {"name": "Червоний хутір", "line": "green"}},
 
-    //Синяя ветка
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.501728628184416, 50.523942526641285]}, "properties": {"name": "Героїв Дніпра", "line": "blue"}},
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.49932276382695, 50.512574024885794]}, "properties": {"name": "Мінська", "line": "blue"}},
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.499420410973983, 50.501992778622615]}, "properties": {"name": "Оболонь", "line": "blue"}},
@@ -57,6 +55,6 @@
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.48942523460157, 50.393832325506295]}, "properties": {"name": "Васильківська", "line": "blue"}},
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.478836593491014, 50.382919028941835]}, "properties": {"name": "Виставковий центр", "line": "blue"}},
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.469903403707924, 50.37704313023141]}, "properties": {"name": "Іподром", "line": "blue"}},
-    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.455410396872587, 50.36754056086256]}, "properties": {"name": "Теремки", "line": "blue"}},
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.455410396872587, 50.36754056086256]}, "properties": {"name": "Теремки", "line": "blue"}}
   ]
 }
