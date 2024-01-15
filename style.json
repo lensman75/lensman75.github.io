@@ -4230,7 +4230,7 @@
             "id": "Greenmetro",
             "type": "symbol",
             "source": "custom_metro",
-            "minzoom": 10,
+            "minzoom": 11,
             "filter": ["all", ["==", "line", "green"]],
             "layout": {
               "text-field": ["get", "name"],
@@ -4252,7 +4252,7 @@
             "id": "Bluemetro",
             "type": "symbol",
             "source": "custom_metro",
-            "minzoom": 10,
+            "minzoom": 11,
             "filter": ["all", ["==", "line", "blue"]],
             "layout": {
               "text-field": ["get", "name"],
@@ -4274,7 +4274,7 @@
             "id": "Redmetro",
             "type": "symbol",
             "source": "custom_metro",
-            "minzoom": 10,
+            "minzoom": 11,
             "filter": ["all", ["==", "line", "red"]],
             "layout": {
               "text-field": ["get", "name"],
