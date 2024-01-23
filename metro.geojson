@@ -28,7 +28,7 @@
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.519769900265377, 50.43977915047874]}, "properties": {"name": "Палац спорту", "line": "green"}},
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.532039602284655, 50.437026779814055]}, "properties": {"name": "Кловська", "line": "green"}},
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.539816428227983, 50.42734336907189]}, "properties": {"name": "Печерська", "line": "green"}},
-    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.546234364165006, 50.416910720791584]}, "properties": {"name": "Дружби народів", "line": "green"}},
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.546234364165006, 50.416910720791584]}, "properties": {"name": "Звіринецька", "line": "green"}},
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.561187687554195, 50.402160843581385]}, "properties": {"name": "Видубичі", "line": "green"}},
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.60556282164981, 50.39456457362345]}, "properties": {"name": "Славутич", "line": "green"}},
     {"type": "Feature", "geometry": {"type": "Point", "coordinates": [30.617198855631568, 50.39552434083471]}, "properties": {"name": "Осокорки", "line": "green"}},
